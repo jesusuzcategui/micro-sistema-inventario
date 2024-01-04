@@ -1,0 +1,23 @@
+.titlePage {
+  color: yellow;
+  text-align: left;
+  width: 100%;
+  padding: 1;
+}
+
+.inputPage {
+  width: 50;
+  margin: 1 0;
+  align: center middle;
+}
+
+.buttonPage {
+  width: 100%;
+  text-align: center;
+  background: yellow;
+  color: white;
+  margin: 1 0;
+  width: 4;
+  align: center middle;
+
+}
